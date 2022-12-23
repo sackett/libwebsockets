@@ -1,0 +1,1 @@
+{"code":"200000","data":{"token":"2neAiuYvAU61ZDXANAGAsiL4-iAExhsBXZxftpOeh_55i3Ysy2q2LEsEWU64mdzUOPusi34M_wGoSf7iNyEWJ72rdynmzsFQhEJEKHLcJvkH5UFoPmbOTdiYB9J6i9GjsxUuhPw3BlrzazF6ghq4L0YkHFpjZiL1BIoRcmIqqPs=.grLEXAsncgR1eMBdzGGjww==","instanceServers":[{"endpoint":"wss://ws-api-spot.kucoin.com/","encrypt":true,"protocol":"websocket","pingInterval":18000,"pingTimeout":10000}]}}
